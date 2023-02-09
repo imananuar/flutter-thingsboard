@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:thingsboard_app/utils/transition/page_transitions.dart';
 
-const int _tbPrimaryColorValue = 0xFF305680;
+// const int _tbPrimaryColorValue = 0xFF305680;
+const int _tbPrimaryColorValue = 0xFF2B675D;
 const Color _tbPrimaryColor = Color(_tbPrimaryColorValue);
 const Color _tbSecondaryColor = Color(0xFF527dad);
 const Color _tbDarkPrimaryColor = Color(0xFF9fa8da);

@@ -163,7 +163,7 @@ class S {
   /// `Login to your account`
   String get loginNotification {
     return Intl.message(
-      'Login to your account',
+      'Smart Agriculture | Login',
       name: 'loginNotification',
       desc: '',
       args: [],

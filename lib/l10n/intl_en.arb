@@ -13,7 +13,7 @@
   "login": "Log In",
 
   "logoDefaultValue": "ThingsBoard Logo",
-  "loginNotification": "Login to your account",
+  "loginNotification": "Smart Agriculture | Login",
   "email": "Email",
   "emailRequireText": "Email is required.",
   "emailInvalidText": "Invalid email format.",

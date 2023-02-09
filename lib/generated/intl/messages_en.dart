@@ -96,7 +96,7 @@ class MessageLookup extends MessageLookupByLibrary {
             "The list is currently empty."),
         "login": MessageLookupByLibrary.simpleMessage("Log In"),
         "loginNotification":
-            MessageLookupByLibrary.simpleMessage("Login to your account"),
+            MessageLookupByLibrary.simpleMessage("Smart Agriculture | Login"),
         "logoDefaultValue":
             MessageLookupByLibrary.simpleMessage("ThingsBoard Logo"),
         "logout": MessageLookupByLibrary.simpleMessage("Log Out"),

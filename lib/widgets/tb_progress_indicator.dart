@@ -65,17 +65,17 @@ class _TbProgressIndicatorState extends State<TbProgressIndicator>
             height: widget.size,
             width: widget.size,
             color: widget._getValueColor(context)),
-        AnimatedBuilder(
-          animation: _rotation,
-          child: SvgPicture.asset(ThingsboardImage.thingsboardOuter,
-              height: widget.size,
-              width: widget.size,
-              color: widget._getValueColor(context)),
-          builder: (BuildContext context, Widget? child) {
-            return Transform.rotate(
-                angle: _rotation.value * pi * 2, child: child);
-          },
-        )
+        // AnimatedBuilder(
+        //   animation: _rotation,
+        //   child: SvgPicture.asset(ThingsboardImage.thingsboardOuter,
+        //       height: widget.size,
+        //       width: widget.size,
+        //       color: widget._getValueColor(context)),
+        //   builder: (BuildContext context, Widget? child) {
+        //     return Transform.rotate(
+        //         angle: _rotation.value * pi * 2, child: child);
+        //   },
+        // )
       ],
     );
   }

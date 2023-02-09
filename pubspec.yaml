@@ -47,6 +47,8 @@ dependencies:
   preload_page_view: ^0.1.6
   flutter_localizations:
     sdk: flutter
+#flutter_easy_loading
+flutter_easyloading: ^latest
 
 dev_dependencies:
   flutter_test:
